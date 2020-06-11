@@ -21,4 +21,15 @@ Methodology section which represents the main component of the report where you 
 ## Results
 Results section where you discuss the results.
 
-***
+***There were two big clusters (1 & 3) that had a generous amount of neighborhoods and activities inside.***
+
+## Discussion
+Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
+
+***After looking at the results, I think that if I were to redo this activity, I could also take into account various datasets in income and crime in each area too. This would definitely account more for the aspect of my client that might start a family.***
+
+### Conclusion
+Conclusion section where you conclude the report.
+
+***This report could be helpful for anyone planning to purchase a home in Toronto. While they may not have the same needs as my original client, they can still observe each cluster, and within each cluster, each neighborhood, to see what there was to offer.***
+
