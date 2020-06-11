@@ -4,5 +4,5 @@ Foursquare location data. So make sure that you provide adequate explanation and
 will be using, even if it is only Foursquare location data.
 
 
-The data I will use is from the New York lab where we intially explored Foursquare. 
-https://cocl.us/new_york_dataset
+The data I will use is from http://www.ciclt.net/sn/clt/capitolimpact/gw_ziplist.aspx?FIPS=42003
+It includes all neighborhoods in Allegheny County, along with their zipcodes. 
